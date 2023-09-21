@@ -1,4 +1,5 @@
 _Task_
+
 You are tasked with building a secure user authentication system in PHP. This system should allow users to register, login, and reset their passwords securely. It should also include the following security features:
 
 _Features_
